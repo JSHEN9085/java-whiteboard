@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d00c8d82-867e-4297-8335-7aff2912635e" name="Default Changelist" comment="" />
+    <list default="true" id="eedb6c7e-4663-4e10-9776-fb6347b976a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseString/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,17 +18,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="216">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/ReverseString.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="864">
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -44,8 +48,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ReverseString.java" />
+        <option value="$PROJECT_DIR$/src/com/company/TwoSum.java" />
       </list>
     </option>
   </component>
@@ -60,21 +63,22 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ReverseString" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReverseString" type="462c0819:PsiDirectoryNode" />
+              <item name="TwoSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TwoSum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ReverseString" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReverseString" type="462c0819:PsiDirectoryNode" />
+              <item name="TwoSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TwoSum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ReverseString" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReverseString" type="462c0819:PsiDirectoryNode" />
+              <item name="TwoSum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TwoSum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -82,11 +86,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551833270819" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551843759960" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,7 +106,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="ReverseString" />
+      <module name="TwoSum" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -117,11 +120,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d00c8d82-867e-4297-8335-7aff2912635e" name="Default Changelist" comment="" />
-      <created>1551832373345</created>
+      <changelist id="eedb6c7e-4663-4e10-9776-fb6347b976a7" name="Default Changelist" comment="" />
+      <created>1551842736189</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551832373345</updated>
+      <updated>1551842736189</updated>
     </task>
     <servers />
   </component>
@@ -134,7 +137,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123032905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -159,15 +162,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="216">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ReverseString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="864">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
