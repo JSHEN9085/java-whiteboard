@@ -9,8 +9,8 @@ package com.company;
 
 import java.util.HashMap;
 
-public class TwoSum {
-    public int[] twoSum(int[] nums, int target) {
+public class TwoSumReturnIndex {
+    public static int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
 
         if(nums == null || nums.length == 0){
