@@ -40,4 +40,4 @@ public class Toeplitz {
 //go to the very end;
 
 //if we set "< matrix.length" and "<matrix[i].length", we will have error
-//exception regarding the index, since i + 1 and j + 1 are invalid; 
+//exception regarding the index, since i + 1 and j + 1 are invalid;
