@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56f82e0e-95c4-4937-bb38-6368a694058c" name="Default Changelist" comment="" />
+    <list default="true" id="5a0178b5-d724-4cd2-86e1-e073dddb9fc8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/SelfDividing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RotatedDigits/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RotatedDigits/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,10 +24,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Rotation.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SelfDividing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="766">
+              <caret line="47" column="81" selection-start-line="47" selection-start-column="81" selection-end-line="47" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -44,7 +47,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Rotation.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SelfDividing.java" />
       </list>
     </option>
   </component>
@@ -62,17 +65,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="RotatedDigits" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RotatedDigits" type="462c0819:PsiDirectoryNode" />
+              <item name="SelfDividing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelfDividing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RotatedDigits" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RotatedDigits" type="462c0819:PsiDirectoryNode" />
+              <item name="SelfDividing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelfDividing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="RotatedDigits" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RotatedDigits" type="462c0819:PsiDirectoryNode" />
+              <item name="SelfDividing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelfDividing" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -80,12 +83,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552095292840" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552158214869" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -102,7 +105,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="RotatedDigits" />
+      <module name="SelfDividing" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -116,11 +119,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="56f82e0e-95c4-4937-bb38-6368a694058c" name="Default Changelist" comment="" />
-      <created>1552093980482</created>
+      <changelist id="5a0178b5-d724-4cd2-86e1-e073dddb9fc8" name="Default Changelist" comment="" />
+      <created>1552151103542</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552093980482</updated>
+      <updated>1552151103542</updated>
     </task>
     <servers />
   </component>
@@ -133,7 +136,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15307583" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16881259" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -163,10 +166,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Rotation.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/SelfDividing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="766">
+          <caret line="47" column="81" selection-start-line="47" selection-start-column="81" selection-end-line="47" selection-end-column="81" />
         </state>
       </provider>
     </entry>
