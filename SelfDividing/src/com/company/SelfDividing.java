@@ -45,7 +45,7 @@ public class SelfDividing {
     //after 128 / 10 = 12, check the result of 12 % (12 % 10), and then next round
     //after 12 / 10 = 1, then 1 % (1 % 10), after this round 1 / 10 = 0, and the loop end;
     //if the number is not self dividing, it will return non-zero in at least one of the loop
-    // ***checking if the number % the remaining of number divided by 10 == 0***  
+    // ***checking if the number % the remaining of number divided by 10 == 0***
 
     //without helper version
 //    public List<Integer> selfDividingNumbers(int left, int right) {
