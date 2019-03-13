@@ -28,7 +28,7 @@ public class HappyNumber {
                 return false;
             }
 
-            num = digitSum(num); //digitSum of current input, and then assign the result to the next round of loop; 
+            num = digitSum(num); //digitSum of current input, and then assign the result to the next round of loop;
         }
     }
 
