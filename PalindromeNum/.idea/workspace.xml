@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8564646e-d640-4d7a-8b95-041d2a19034d" name="Default Changelist" comment="" />
+    <list default="true" id="7f454e17-3c1e-49b2-9e89-042ad8c0724b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PalindromeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReverseInteger/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReverseInteger/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,16 +19,16 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+              <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/ReverseInteger.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/PalindromeNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="180">
+              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -45,7 +49,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/company/PalindromeNum.java" />
       </list>
     </option>
   </component>
@@ -60,22 +64,21 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ReverseInteger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReverseInteger" type="462c0819:PsiDirectoryNode" />
+              <item name="PalindromeNum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PalindromeNum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ReverseInteger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReverseInteger" type="462c0819:PsiDirectoryNode" />
+              <item name="PalindromeNum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PalindromeNum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ReverseInteger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReverseInteger" type="462c0819:PsiDirectoryNode" />
+              <item name="PalindromeNum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PalindromeNum" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -83,10 +86,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552439190887" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552440114199" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,7 +107,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="ReverseInteger" />
+      <module name="PalindromeNum" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -122,11 +126,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8564646e-d640-4d7a-8b95-041d2a19034d" name="Default Changelist" comment="" />
-      <created>1552436483548</created>
+      <changelist id="7f454e17-3c1e-49b2-9e89-042ad8c0724b" name="Default Changelist" comment="" />
+      <created>1552439220381</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1552436483548</updated>
+      <updated>1552439220381</updated>
     </task>
     <servers />
   </component>
@@ -139,7 +143,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12660944" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11516452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -166,14 +170,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <caret line="5" column="57" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ReverseInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/PalindromeNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="180">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
