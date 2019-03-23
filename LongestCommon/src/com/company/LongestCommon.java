@@ -13,9 +13,11 @@ package com.company;
 //Output: ""
 //Explanation: There is no common prefix among the input strings.
 
+//key world for this question "prefix string" means common portion
+//always at the beginning!!!
 public class LongestCommon {
-    public String longestCommonPrefix(String[] strings) {
-        if(strings.length == 0){
+    public static String longestCommonPrefix(String[] strings) {
+        if(strings == null || strings.length == 0){
             return "";
         }
 
