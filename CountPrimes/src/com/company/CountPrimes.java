@@ -20,7 +20,7 @@ public class CountPrimes{
             }
             //after setting all the multiple of 2 and 3, we already mark many integer as not prime in the boolean array, so we could
             //reduce the run time
-            //every prime is not the multiple of low value prime, so for every low prime, we can mark their multiple as non-prime; 
+            //every prime is not the multiple of low value prime, so for every low prime, we can mark their multiple as non-prime;
         }
         return count;
     }
