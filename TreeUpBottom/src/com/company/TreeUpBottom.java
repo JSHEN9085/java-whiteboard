@@ -30,23 +30,5 @@ public class TreeUpBottom {
             return result;
         }
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            int size = q.size();
-            List<Integer> list = new LinkedList<>();
-            for(int i = 0; i < size; i++){
-                TreeNode current = q.remove();
-                list.add(current.val);
-                if(current.left != null){
-                    q.add(current.left);
-                }
-                if(current.right != null){
-                    q.add(current.right);
-                }
-            }
-            result.add(0, list);
-        }
-        return result;
     }
 }
