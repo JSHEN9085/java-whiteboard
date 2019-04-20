@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c3bd5c3-2b6c-4a68-b5e2-3354efc18534" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ArrayToTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayToTree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayToTree/src/com/company/ArrayToTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayToTree/src/com/company/ArrayToTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeTopBottom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeTopBottom/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/TreeUpBottom.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeUpBottom/src/com/company/TreeTopBottom.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/TreeBottomUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="49" column="90" selection-start-line="49" selection-start-column="90" selection-end-line="49" selection-end-column="90" />
+            <state relative-caret-position="339">
+              <caret line="21" selection-start-line="21" selection-end-line="26" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -141,7 +132,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="810" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -173,8 +165,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/TreeBottomUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="49" column="90" selection-start-line="49" selection-start-column="90" selection-end-line="49" selection-end-column="90" />
+        <state relative-caret-position="339">
+          <caret line="21" selection-start-line="21" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
