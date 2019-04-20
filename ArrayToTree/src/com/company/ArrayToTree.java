@@ -44,4 +44,4 @@ public class ArrayToTree {
 //       2   6
 // like above example, 2 is the middle point between beginning and 4, so it must be the left node of 4
 // and then we keep finding the middle point and set it as left node, and we do
-// same thing at the right side. 
+// same thing at the right side.
