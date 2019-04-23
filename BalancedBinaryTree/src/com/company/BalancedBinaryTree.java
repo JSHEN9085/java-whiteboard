@@ -24,7 +24,7 @@ public class BalancedBinaryTree {
         }
 
         // separately check left tree and right tree, make sure left and right are also binary trees
-        // if we jumped to this step, it means difference in depth of left and right tree is less than 1; 
+        // if we jumped to this step, it means difference in depth of left and right tree is less than 1;
         return isBalanced(root.left) && isBalanced(root.right);
     }
 
