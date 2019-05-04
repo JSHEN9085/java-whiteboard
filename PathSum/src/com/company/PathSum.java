@@ -15,9 +15,10 @@ public class PathSum {
     public boolean hasPathSum(TreeNode root, int sum){
         if(root == null){
             return false;
+        } else if(root.left == null && root.right == null && root.val == sum){ //as question required, we need to find root-to-leaf path, therefore, if there is a qualified path, the last node will have null for its left and right; 
+            return true;
+        } else {
+            return hasPathSum(root.left, sum - root.val) || hasPathSum(root.right, sum - root.val);
         }
-
-        int total = 0;
-        
     }
 }
