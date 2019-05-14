@@ -3,6 +3,6 @@ package com.jshen;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println(ValidPalindrome.isPalindrome("A man, a plan, a canal: Panama"));
     }
 }
