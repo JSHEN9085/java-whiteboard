@@ -8,8 +8,7 @@ public class ValidPalindrome {
 
         String charOnly = s.replaceAll("[^a-zA-Z]+", "").toLowerCase();
         System.out.println(charOnly);
-        for(int i = 0; i < charOnly.length() / 2; i++){
-            System.out.println(charOnly.charAt(i));
+        for(int i = 0; i <= charOnly.length() / 2; i++){
             if(charOnly.charAt(i) != charOnly.charAt(charOnly.length() - 1 - i)){
                 return false;
             }
