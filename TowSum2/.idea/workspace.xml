@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82173548-5456-4aa1-a3e3-c6631a6e7fd2" name="Default Changelist" comment="" />
+    <list default="true" id="7b85d618-744a-4ead-9910-00728b917ad5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Majority/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Majority/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="256">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/Majority.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+            <state relative-caret-position="352">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -48,7 +51,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/Majority.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/TwoSum.java" />
       </list>
     </option>
   </component>
@@ -75,17 +78,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="Majority" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Majority" type="462c0819:PsiDirectoryNode" />
+              <item name="TowSum2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TowSum2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Majority" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Majority" type="462c0819:PsiDirectoryNode" />
+              <item name="TowSum2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TowSum2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Majority" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Majority" type="462c0819:PsiDirectoryNode" />
+              <item name="TowSum2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TowSum2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -95,9 +98,6 @@
       </pane>
       <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +114,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="Majority" />
+      <module name="TowSum2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +128,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="82173548-5456-4aa1-a3e3-c6631a6e7fd2" name="Default Changelist" comment="" />
-      <created>1558205201407</created>
+      <changelist id="7b85d618-744a-4ead-9910-00728b917ad5" name="Default Changelist" comment="" />
+      <created>1559327001807</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558205201407</updated>
+      <updated>1559327001807</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +145,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17167382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15450644" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -170,15 +170,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="256">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/Majority.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="45" column="31" lean-forward="true" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        <state relative-caret-position="352">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
         </state>
       </provider>
     </entry>
