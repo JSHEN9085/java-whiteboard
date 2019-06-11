@@ -18,22 +18,14 @@ public class RotateArray {
             return;
         }
 
-        int currentNum = nums[0];
-        int currentIndex = 0;
-        int newIndex = 0;
         int i = 0;
 
-        while(i++ < nums.length){
-            newIndex = (i + k) % nums.length;
+        while(i < nums.length){
+            int newIndex = (i + k) % nums.length;
             int tem = nums[newIndex];
-            nums[newIndex] = currentNum;
-
-            if(currentIndex == newIndex){
-                currentNum = nums[++newIndex];
-                ++currentIndex;
-            } else {
-                currentNum = tem;
-            }
+            nums[newIndex] = nums[i];
+            nums[(newIndex + k) % nums.length] = tem;
+            i++;
         }
     }
 }
