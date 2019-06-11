@@ -10,6 +10,8 @@ package com.jshen;
 //rotate 3 steps to the right: [5,6,7,1,2,3,4]
 
 public class RotateArray {
+    //method 1, set a new array to finish the rotation, and then assign its value back to the original input
+    //not fast solution 
     public void rotate(int[] nums, int k){
         //as method return "void", this mean we have to revise the original input
         //we can't set a new int[] (same length as the input) and put number into it.
@@ -18,14 +20,14 @@ public class RotateArray {
             return;
         }
 
-        int i = 0;
+        int[] result = new int[nums.length];
 
-        while(i < nums.length){
-            int newIndex = (i + k) % nums.length;
-            int tem = nums[newIndex];
-            nums[newIndex] = nums[i];
-            nums[(newIndex + k) % nums.length] = tem;
-            i++;
+        for(int i = 0; i < result.length; i++){
+            result[(i + k) % result.length] = nums[i];
+        }
+
+        for(int j = 0; j < nums.length; j++){
+            nums[j] = result[j];
         }
     }
 }
