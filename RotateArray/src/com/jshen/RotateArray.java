@@ -11,7 +11,7 @@ package com.jshen;
 
 public class RotateArray {
     //method 1, set a new array to finish the rotation, and then assign its value back to the original input
-    //not fast solution 
+    //not fast solution
     public void rotate(int[] nums, int k){
         //as method return "void", this mean we have to revise the original input
         //we can't set a new int[] (same length as the input) and put number into it.
