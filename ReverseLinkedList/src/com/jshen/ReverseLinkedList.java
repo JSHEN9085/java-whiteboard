@@ -13,36 +13,36 @@ public class ReverseLinkedList {
     }
 
     //iterative;
-//    public ListNode reverseList(ListNode head) {
-//        if(head == null || head.next == null) return head;
-//
-//        ListNode prev = null;
-//        ListNode current = head;
-//        ListNode next = null;
-//
-//        while(current != null){
-//            next = current.next; //save the next node into variable next,
-//
-//
-//            current.next = prev; //at the first iteration, next node will be null, we assigned prev as null at line 13
-//            prev = current; //pushing the iteration, in each round prev is the next node of current, so we need to reassign it as current node, so in the next round current.next will point to the right node.
-//
-//            current = next; //push the iteration into the next step, point current as the next node we saved at line 18
-//        }
-//        return prev;
-//    }
+    public ListNode reverseList(ListNode head) {
+        if(head == null || head.next == null) return head;
+
+        ListNode prev = null;
+        ListNode current = head;
+        ListNode next = null;
+
+        while(current != null){
+            next = current.next; //save the next node into variable next,
+
+
+            current.next = prev; //at the first iteration, next node will be null, we assigned prev as null at line 13
+            prev = current; //pushing the iteration, in each round prev is the next node of current, so we need to reassign it as current node, so in the next round current.next will point to the right node.
+
+            current = next; //push the iteration into the next step, point current as the next node we saved at line 18
+        }
+        return prev;
+    }
 
     //recursive
-    public ListNode reverseList(ListNode head) {
-        if(head == null || head.next == null){
-            return head;
-        }
-
-        ListNode newHead = reverseList(head.next);
-        head.next.next = head;
-
-        head.next = null; //clean up the currentNode.next as the direction need to be revised
-
-        return newHead;
-    }
+//    public ListNode reverseList(ListNode head) {
+//        if(head == null || head.next == null){
+//            return head;
+//        }
+//
+//        ListNode newHead = reverseList(head.next);
+//        head.next.next = head;
+//
+//        head.next = null; //clean up the currentNode.next as the direction need to be revised
+//
+//        return newHead;
+//    }
 }
