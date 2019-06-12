@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="328b6d65-caa0-42ba-a968-42debea0b12b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RotateArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RotateArray/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RotateArray/src/com/jshen/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RotateArray/src/com/jshen/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+            <state relative-caret-position="500">
+              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -99,6 +97,9 @@
       </pane>
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,8 +179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/ReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        <state relative-caret-position="500">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
         </state>
       </provider>
     </entry>
