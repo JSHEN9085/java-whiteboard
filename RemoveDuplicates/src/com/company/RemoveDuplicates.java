@@ -19,14 +19,14 @@ public class RemoveDuplicates {
     }
 
     public static ListNode deleteDuplicates(ListNode head) {
-        ListNode starting = head;
-        while(starting != null && starting.next != null){
-            if(starting.val == starting.next.val){
-                starting.next = starting.next.next;
+        ListNode pointer = head;
+        while(pointer != null && pointer.next != null){
+            if(pointer.val == pointer.next.val){
+                pointer.next = pointer.next.next; //we skip the one that has the same val as predecessor's val, but no need to move the pointer
             } else {
-                starting = starting.next;
+                pointer = pointer.next; //we move the pointer forward only if the val is different
             }
         }
-        return head;
+        return head; //after we remove all duplicated value, head will be fine with no duplication
     }
 }
