@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d872d53-024d-4abf-99ca-d95c28da4235" name="Default Changelist" comment="" />
+    <list default="true" id="dd562121-71f5-47cc-95e8-c753cf2ad70f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DeleteNode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeleteNode/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/DeleteNode.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/MiddleOfList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="704">
+              <caret line="22" column="96" selection-start-line="22" selection-start-column="96" selection-end-line="22" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -48,7 +50,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/DeleteNode.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/MiddleOfList.java" />
       </list>
     </option>
   </component>
@@ -70,23 +72,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="DeleteNode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeleteNode" type="462c0819:PsiDirectoryNode" />
+              <item name="MiddleOfList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiddleOfList" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeleteNode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeleteNode" type="462c0819:PsiDirectoryNode" />
+              <item name="MiddleOfList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiddleOfList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="DeleteNode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeleteNode" type="462c0819:PsiDirectoryNode" />
+              <item name="MiddleOfList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MiddleOfList" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,10 +94,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +113,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="DeleteNode" />
+      <module name="MiddleOfList" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +127,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0d872d53-024d-4abf-99ca-d95c28da4235" name="Default Changelist" comment="" />
-      <created>1585607126748</created>
+      <changelist id="dd562121-71f5-47cc-95e8-c753cf2ad70f" name="Default Changelist" comment="" />
+      <created>1585608478968</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585607126748</updated>
+      <updated>1585608478968</updated>
     </task>
     <servers />
   </component>
@@ -175,10 +174,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/DeleteNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/MiddleOfList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="704">
+          <caret line="22" column="96" selection-start-line="22" selection-start-column="96" selection-end-line="22" selection-end-column="96" />
         </state>
       </provider>
     </entry>
