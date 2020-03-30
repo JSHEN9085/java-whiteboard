@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab3401ef-d249-41aa-8801-c1d3d60a9520" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ListsIntersection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListsIntersection/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ab3401ef-d249-41aa-8801-c1d3d60a9520" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
+            <state relative-caret-position="128">
+              <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -97,6 +95,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -176,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
+        <state relative-caret-position="128">
+          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
