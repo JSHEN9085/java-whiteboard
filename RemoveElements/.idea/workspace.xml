@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07e6f885-f209-4a5c-81e4-9daf54eb371c" name="Default Changelist" comment="" />
+    <list default="true" id="ab3401ef-d249-41aa-8801-c1d3d60a9520" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ListsIntersection/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListsIntersection/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +20,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/ListsIntersection.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1504">
-              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="271">
+              <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -48,7 +50,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/ListsIntersection.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/RemoveElements.java" />
       </list>
     </option>
   </component>
@@ -60,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -75,17 +77,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="ListsIntersection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ListsIntersection" type="462c0819:PsiDirectoryNode" />
+              <item name="RemoveElements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemoveElements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ListsIntersection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ListsIntersection" type="462c0819:PsiDirectoryNode" />
+              <item name="RemoveElements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemoveElements" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ListsIntersection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ListsIntersection" type="462c0819:PsiDirectoryNode" />
+              <item name="RemoveElements" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RemoveElements" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -95,9 +97,6 @@
       </pane>
       <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +113,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="ListsIntersection" />
+      <module name="RemoveElements" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +127,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07e6f885-f209-4a5c-81e4-9daf54eb371c" name="Default Changelist" comment="" />
-      <created>1585449154651</created>
+      <changelist id="ab3401ef-d249-41aa-8801-c1d3d60a9520" name="Default Changelist" comment="" />
+      <created>1585533951859</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585449154651</updated>
+      <updated>1585533951859</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +144,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14735337" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12947068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -170,15 +169,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/ListsIntersection.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/RemoveElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1504">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="271">
+          <caret line="15" column="98" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
         </state>
       </provider>
     </entry>
