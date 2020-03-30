@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e6f885-f209-4a5c-81e4-9daf54eb371c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/ListsIntersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ListCycle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListCycle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jshen/ListsIntersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/ListsIntersection.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/ListsIntersection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="19" selection-start-line="19" selection-end-line="31" selection-end-column="20" />
+            <state relative-caret-position="495">
+              <caret line="71" column="162" selection-start-line="71" selection-start-column="162" selection-end-line="71" selection-end-column="162" />
             </state>
           </provider>
         </entry>
@@ -98,6 +97,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,8 +179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/ListsIntersection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="19" selection-start-line="19" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="495">
+          <caret line="71" column="162" selection-start-line="71" selection-start-column="162" selection-end-line="71" selection-end-column="162" />
         </state>
       </provider>
     </entry>
