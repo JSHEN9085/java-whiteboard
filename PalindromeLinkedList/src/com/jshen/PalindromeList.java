@@ -56,7 +56,7 @@ public class PalindromeList {
             }
             head = head.next;
             previous = previous.next;
-            //iterate head from left and previous from right, if val is different return false. 
+            //iterate head from left and previous from right, if val is different return false.
         }
         return true;
     }
