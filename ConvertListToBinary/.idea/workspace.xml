@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd562121-71f5-47cc-95e8-c753cf2ad70f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e5b3a847-4941-4330-bd2f-37737d8a0c4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../MiddleOfList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MiddleOfList/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +27,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/MiddleOfList.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/ConvertBinary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="22" column="96" selection-start-line="22" selection-start-column="96" selection-end-line="22" selection-end-column="96" />
+            <state relative-caret-position="744">
+              <caret line="32" column="137" selection-start-line="32" selection-start-column="137" selection-end-line="32" selection-end-column="137" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/MiddleOfList.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/ConvertBinary.java" />
       </list>
     </option>
   </component>
@@ -76,17 +76,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="MiddleOfList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MiddleOfList" type="462c0819:PsiDirectoryNode" />
+              <item name="ConvertListToBinary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConvertListToBinary" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MiddleOfList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MiddleOfList" type="462c0819:PsiDirectoryNode" />
+              <item name="ConvertListToBinary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConvertListToBinary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="MiddleOfList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MiddleOfList" type="462c0819:PsiDirectoryNode" />
+              <item name="ConvertListToBinary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ConvertListToBinary" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -94,12 +94,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,7 +113,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="MiddleOfList" />
+      <module name="ConvertListToBinary" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -130,11 +127,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd562121-71f5-47cc-95e8-c753cf2ad70f" name="Default Changelist" comment="" />
-      <created>1585608478968</created>
+      <changelist id="e5b3a847-4941-4330-bd2f-37737d8a0c4e" name="Default Changelist" comment="" />
+      <created>1585608818452</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585608478968</updated>
+      <updated>1585608818452</updated>
     </task>
     <servers />
   </component>
@@ -147,7 +144,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13805436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -177,10 +174,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/MiddleOfList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/ConvertBinary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="22" column="96" selection-start-line="22" selection-start-column="96" selection-end-line="22" selection-end-column="96" />
+        <state relative-caret-position="744">
+          <caret line="32" column="137" selection-start-line="32" selection-start-column="137" selection-end-line="32" selection-end-column="137" />
         </state>
       </provider>
     </entry>
