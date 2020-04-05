@@ -38,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/MaxDepthReview.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            <state relative-caret-position="468">
+              <caret line="71" column="162" selection-start-line="71" selection-start-column="162" selection-end-line="71" selection-end-column="162" />
             </state>
           </provider>
         </entry>
@@ -68,7 +68,7 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="816" />
+    <option name="height" value="814" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -193,8 +193,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MaxDepthReview.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="468">
+          <caret line="71" column="162" selection-start-line="71" selection-start-column="162" selection-end-line="71" selection-end-column="162" />
         </state>
       </provider>
     </entry>
