@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf8fa67b-ab80-43db-a423-b95e74ba2e0a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/ArrayToTreeReview.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MaxDepth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxDepth/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeToLinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeToLinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TreeToLinkedList/src/com/jshen/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TreeToLinkedList/src/com/jshen/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="cf8fa67b-ab80-43db-a423-b95e74ba2e0a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
