@@ -24,9 +24,13 @@ public class MinDepth {
         }
 
         if(root.left != null && root.right != null){
-            return Math.max(minDepth(root.left), minDepth(root.right)) + 1;
+            return Math.min(minDepth(root.left), minDepth(root.right)) + 1; //just opposite to the maxDepth question
         } else {
-            return Math.min(minDepth(root.left), minDepth(root.right)) + 1;
+            return Math.max(minDepth(root.left), minDepth(root.right)) + 1;
+            //for this situation, the question output height 2, so we need Math.max here
+            //       1
+            //      / \
+            //         2
         }
     }
 
