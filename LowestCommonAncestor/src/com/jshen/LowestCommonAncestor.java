@@ -13,17 +13,32 @@ public class LowestCommonAncestor {
     //binary search tree is the key point, we need to compare the p, q's value to root
     //once we found p < root && p > root, root is the answer
     //if p and q are both less than or greater than root, they are at the same side of subtree, and we need to move root to root.left, until we found p and q are at different sides
+//    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+//        if(root == null) return null;
+//
+//        if(p.val < root.val && q.val < root.val){
+//            return lowestCommonAncestor(root.left, p, q);
+//        }
+//
+//        if(p.val > root.val && q.val > root.val){
+//            return lowestCommonAncestor(root.right, p, q);
+//        }
+//        return root;
+//    }
+
+    //iterate solution
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root == null) return null;
-
-        if(p.val < root.val && q.val < root.val){
-            return lowestCommonAncestor(root.left, p, q);
+        TreeNode currentNode = root;
+        while(currentNode != null){
+            if(p.val < currentNode.val && q.val < currentNode.val){
+                currentNode = currentNode.left;
+            } else if(p.val > currentNode.val && q.val > currentNode.val){
+                currentNode = currentNode.right;
+            } else {
+                return currentNode;
+            }
         }
-
-        if(p.val > root.val && q.val > root.val){
-            return lowestCommonAncestor(root.right, p, q);
-        }
-        return root;
+        return null;
     }
 
 }
