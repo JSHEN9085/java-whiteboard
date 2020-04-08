@@ -13,10 +13,45 @@ public class BinaryTreePath {
         TreeNode(int x) { val = x; }
     }
 
-    public List<String> binaryTreePaths(TreeNode root) {
+    //recursion solution version 1(with String)
+//    public List<String> binaryTreePaths(TreeNode root) {
+//        List<String> result = new LinkedList<>();
+//        if(root != null) pathTracking(root, "", result);
+//        return result;
+//    }
+//
+//    private void pathTracking(TreeNode root, String path, List<String> result){
+//        if(root.left == null && root.right == null) result.add(path + root.val);
+//
+//        if(root.left != null) pathTracking(root.left, path + root.val + "->", result);
+//
+//        if(root.right != null) pathTracking(root.right, path + root.val + "->", result);
+//    }
 
+    //recursion version 2(with StringBuilder)
+    public List<String> binaryTreePaths(TreeNode root) {
+        List<String> result = new LinkedList<>();
+        StringBuilder path = new StringBuilder();
+        if(root != null) pathTracking(root, path, result);
+        return result;
     }
 
+    private void pathTracking(TreeNode root, StringBuilder path, List<String> result){
+        if(root == null) return;
+
+        int len = path.length();
+        System.out.println(len);
+        path.append(root.val);
+        System.out.println(path.toString());
+        if(root.left == null && root.right == null){
+            result.add(path.toString());
+        } else {
+            path.append("->");
+            pathTracking(root.left, path, result);
+            pathTracking(root.right, path, result);
+        }
+        path.setLength(len);
+    }
 
 
     //DFS
@@ -45,5 +80,5 @@ public class BinaryTreePath {
 //            }
 //        }
 //        return result;
-    }
+//    }
 }
