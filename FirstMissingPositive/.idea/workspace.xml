@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26ab3a4c-21fd-48d5-a5ea-acc3dacb25d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/jshen/PathSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/PathSum3.java" afterDir="false" />
+    <list default="true" id="50942597-93f6-4207-a703-35cff94c0d88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/FirstMissing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PathSumIII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PathSumIII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PathSumIII/src/com/jshen/PathSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PathSumIII/src/com/jshen/PathSum3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/PathSum3.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/FirstMissing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="14" column="86" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
+            <state relative-caret-position="230">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -50,7 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/PathSum3.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/FirstMissing.java" />
       </list>
     </option>
   </component>
@@ -62,10 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="816" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -73,23 +74,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PathSumIII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PathSumIII" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstMissingPositive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstMissingPositive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PathSumIII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PathSumIII" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstMissingPositive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstMissingPositive" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PathSumIII" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PathSumIII" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstMissingPositive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstMissingPositive" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -97,10 +96,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -117,7 +115,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="PathSumIII" />
+      <module name="FirstMissingPositive" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -131,16 +129,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26ab3a4c-21fd-48d5-a5ea-acc3dacb25d0" name="Default Changelist" comment="" />
-      <created>1586365642860</created>
+      <changelist id="50942597-93f6-4207-a703-35cff94c0d88" name="Default Changelist" comment="" />
+      <created>1586461267236</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586365642860</updated>
+      <updated>1586461267236</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="816" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -148,7 +146,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14449213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13662376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -178,10 +176,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/PathSum3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/FirstMissing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="14" column="86" selection-start-line="14" selection-start-column="86" selection-end-line="14" selection-end-column="86" />
+        <state relative-caret-position="230">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
