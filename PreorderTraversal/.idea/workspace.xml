@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50942597-93f6-4207-a703-35cff94c0d88" name="Default Changelist" comment="" />
+    <list default="true" id="8e9cd1bc-126c-4fde-ba90-fd716552a5fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/Preorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstMissingPositive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstMissingPositive/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxDepth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxDepth/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,17 +22,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="64">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/FirstMissing.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/Preorder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="25" column="116" selection-start-line="25" selection-start-column="116" selection-end-line="25" selection-end-column="116" />
+            <state relative-caret-position="768">
+              <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -48,7 +52,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/FirstMissing.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/Preorder.java" />
       </list>
     </option>
   </component>
@@ -74,17 +79,17 @@
         <subPane>
           <expand>
             <path>
-              <item name="FirstMissingPositive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstMissingPositive" type="462c0819:PsiDirectoryNode" />
+              <item name="PreorderTraversal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PreorderTraversal" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstMissingPositive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstMissingPositive" type="462c0819:PsiDirectoryNode" />
+              <item name="PreorderTraversal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PreorderTraversal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstMissingPositive" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstMissingPositive" type="462c0819:PsiDirectoryNode" />
+              <item name="PreorderTraversal" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PreorderTraversal" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -95,9 +100,6 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,7 +116,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="FirstMissingPositive" />
+      <module name="PreorderTraversal" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -128,11 +130,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="50942597-93f6-4207-a703-35cff94c0d88" name="Default Changelist" comment="" />
-      <created>1586461267236</created>
+      <changelist id="8e9cd1bc-126c-4fde-ba90-fd716552a5fb" name="Default Changelist" comment="" />
+      <created>1586530180730</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586461267236</updated>
+      <updated>1586530180730</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +147,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13662376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14520743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -170,15 +172,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="64">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/FirstMissing.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/Preorder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="25" column="116" selection-start-line="25" selection-start-column="116" selection-end-line="25" selection-end-column="116" />
+        <state relative-caret-position="768">
+          <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
         </state>
       </provider>
     </entry>
