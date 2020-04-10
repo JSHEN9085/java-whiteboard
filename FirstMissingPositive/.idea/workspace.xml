@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50942597-93f6-4207-a703-35cff94c0d88" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/FirstMissing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PathSumIII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PathSumIII/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PathSumIII/src/com/jshen/PathSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PathSumIII/src/com/jshen/PathSum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jshen/FirstMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/FirstMissing.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/FirstMissing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="-49">
+              <caret line="25" column="116" selection-start-line="25" selection-start-column="116" selection-end-line="25" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -99,6 +97,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,8 +179,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/FirstMissing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="-49">
+          <caret line="25" column="116" selection-start-line="25" selection-start-column="116" selection-end-line="25" selection-end-column="116" />
         </state>
       </provider>
     </entry>
