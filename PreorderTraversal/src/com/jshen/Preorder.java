@@ -1,6 +1,7 @@
 package com.jshen;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
 
@@ -13,6 +14,7 @@ public class Preorder {
         TreeNode(int x) { val = x; }
     }
 
+    //iterative solution
     public List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new ArrayList<>();
         if(root == null) return result;
@@ -34,4 +36,31 @@ public class Preorder {
         }
         return result;
     }
+
+    //recursion solution
+//    public List<Integer> preorderTraversal(TreeNode root) {
+//        List<Integer> result = new LinkedList<>();
+//        if(root == null) return result;
+//        result.add(root.val);
+//        result.addAll(preorderTraversal(root.left));// ask Java to run left subtree recursion first so left tree is added first
+//        result.addAll(preorderTraversal(root.right));
+//        return result;
+//    }
+
+    //recursion solution with helper, we don't need to create new LinkedList each time
+//    public List<Integer> preorderTraversal(TreeNode root) {
+//        List<Integer> result = new LinkedList<>();
+//        if(root == null) return result;
+//        result.add(root.val);
+//        helper(root.left, result); //ask Java to run left subtree recursion first so left tree is added first
+//        helper(root.right, result);
+//        return result;
+//    }
+//
+//    private void helper(TreeNode root, List<Integer> currentList){
+//        if(root == null) return;
+//        currentList.add(root.val);
+//        helper(root.left, currentList); //ask Java to run left subtree recursion first so left tree is added first
+//        helper(root.right, currentList);
+//    }
 }

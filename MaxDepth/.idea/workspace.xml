@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="050ab068-20fa-4305-808a-80a330308a39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PreorderTraversal/src/com/jshen/Preorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FirstMissingPositive/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstMissingPositive/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InorderTravel/src/com/jshen/Inorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PreorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreorderTraversal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PreorderTraversal/src/com/jshen/Preorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PreorderTraversal/src/com/jshen/Preorder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +40,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/MaxDepthReview.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1025">
+            <state relative-caret-position="423">
               <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
@@ -66,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="814" />
@@ -78,7 +79,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,6 +101,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,7 +150,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15164521" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15379113" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -193,7 +194,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MaxDepthReview.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1025">
+        <state relative-caret-position="423">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
