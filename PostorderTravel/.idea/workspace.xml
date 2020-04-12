@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556f243f-3d31-4f5e-ad93-a91a73df410c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../PostorderTravel/src/com/jshen/Postorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8d1a21da-263f-49f5-b0b6-52d5549faed1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jshen/Postorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InorderTravel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InorderTravel/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PreorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreorderTraversal/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,7 +14,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -28,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jshen/Inorder.java">
+        <entry file="file://$PROJECT_DIR$/src/com/jshen/Postorder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="92" column="40" selection-start-line="92" selection-start-column="40" selection-end-line="92" selection-end-column="40" />
+            <state relative-caret-position="569">
+              <caret line="26" column="161" selection-start-line="26" selection-start-column="161" selection-end-line="26" selection-end-column="161" />
             </state>
           </provider>
         </entry>
@@ -51,7 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/jshen/Inorder.java" />
+        <option value="$PROJECT_DIR$/src/com/jshen/Postorder.java" />
       </list>
     </option>
   </component>
@@ -63,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="816" />
@@ -74,21 +75,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="InorderTravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InorderTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="PostorderTravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PostorderTravel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="InorderTravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InorderTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="PostorderTravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PostorderTravel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="InorderTravel" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InorderTravel" type="462c0819:PsiDirectoryNode" />
+              <item name="PostorderTravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PostorderTravel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="jshen" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -97,12 +99,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,7 +116,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.jshen.Main" />
-      <module name="InorderTravel" />
+      <module name="PostorderTravel" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -133,11 +130,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="556f243f-3d31-4f5e-ad93-a91a73df410c" name="Default Changelist" comment="" />
-      <created>1586533244914</created>
+      <changelist id="8d1a21da-263f-49f5-b0b6-52d5549faed1" name="Default Changelist" comment="" />
+      <created>1586555804247</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586533244914</updated>
+      <updated>1586555804247</updated>
     </task>
     <servers />
   </component>
@@ -145,7 +142,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11444921" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15593705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -180,10 +177,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jshen/Inorder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/jshen/Postorder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="92" column="40" selection-start-line="92" selection-start-column="40" selection-end-line="92" selection-end-column="40" />
+        <state relative-caret-position="569">
+          <caret line="26" column="161" selection-start-line="26" selection-start-column="161" selection-end-line="26" selection-end-column="161" />
         </state>
       </provider>
     </entry>
