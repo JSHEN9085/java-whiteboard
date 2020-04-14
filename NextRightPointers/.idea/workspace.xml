@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2788d72-bc84-4b7d-aeb3-646b4c75aded" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/NextRightPointers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinaryTreePath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTreePath/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../InorderTravel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InorderTravel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MaxDepth/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxDepth/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PostorderTravel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PostorderTravel/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d2788d72-bc84-4b7d-aeb3-646b4c75aded" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +27,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/NextRightPointers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-401">
+            <state relative-caret-position="81">
               <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
             </state>
           </provider>
@@ -102,6 +96,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,7 +178,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/NextRightPointers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-401">
+        <state relative-caret-position="81">
           <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
         </state>
       </provider>

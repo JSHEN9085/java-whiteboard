@@ -26,34 +26,30 @@ public class NextRightPointers {
         }
     }
 
-    //iterate solution, time is O(n), space is O(n) 
-//    public Node connect(Node root) {
-//        if(root == null) return null;
-//
-//        Node head = root;
-//        LinkedList<Node> nodeQueue = new LinkedList<>();
-//        nodeQueue.add(root);
-//
-//        while(!nodeQueue.isEmpty()){
-//            int size = nodeQueue.size();
-//            while(size > 0){
-//                Node current = nodeQueue.poll();
-//                if(size > 1) {  //can't use if(nodeQueue.peek() != null) to determine, because queue is dynamic, while size is fixed for each level
-//                    current.next = nodeQueue.peek();
-//                } else {
-//                    current.next = null;
-//                }
-//
-//                if(current.left != null){
-//                    nodeQueue.add(current.left);
-//
-//                }
-//                if(current.right != null){
-//                    nodeQueue.add(current.right);
-//                }
-//                size--;
-//            }
-//        }
-//        return head;
-//    }
+    //iterate solution, time is O(n), space is O(n)
+    public Node connect(Node root) {
+        if(root == null) return null;
+
+        LinkedList<Node> nodeQueue = new LinkedList<>();
+        nodeQueue.add(root);
+
+        while(!nodeQueue.isEmpty()){
+            int size = nodeQueue.size();
+            while(size > 0){
+                Node current = nodeQueue.poll();
+                if(size > 1) {  //can't use if(nodeQueue.peek() != null) to determine, because queue is dynamic, while size is fixed for each level
+                    current.next = nodeQueue.peek();
+                }
+
+                if(current.left != null){
+                    nodeQueue.add(current.left);
+                }
+                if(current.right != null){
+                    nodeQueue.add(current.right);
+                }
+                size--;
+            }
+        }
+        return root;
+    }
 }
