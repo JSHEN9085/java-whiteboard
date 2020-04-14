@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="050ab068-20fa-4305-808a-80a330308a39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../InorderTravel/src/com/jshen/Inorder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreorderTraversal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PreorderTraversal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PreorderTraversal/src/com/jshen/Preorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PreorderTraversal/src/com/jshen/Preorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NextRightPointers/src/com/jshen/NextRightPointers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryTreePath/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTreePath/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InorderTravel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InorderTravel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PostorderTravel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PostorderTravel/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +41,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/MaxDepthReview.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
+            <state relative-caret-position="-188">
               <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
@@ -148,9 +149,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15379113" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15593705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -194,7 +196,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MaxDepthReview.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
+        <state relative-caret-position="-188">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>

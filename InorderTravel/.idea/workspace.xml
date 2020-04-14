@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="556f243f-3d31-4f5e-ad93-a91a73df410c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../PostorderTravel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PostorderTravel/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PostorderTravel/src/com/jshen/Postorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PostorderTravel/src/com/jshen/Postorder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,7 +28,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Inorder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
+            <state relative-caret-position="631">
               <caret line="92" column="40" selection-start-line="92" selection-start-column="40" selection-end-line="92" selection-end-column="40" />
             </state>
           </provider>
@@ -142,7 +141,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11444921" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -181,7 +179,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Inorder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
+        <state relative-caret-position="631">
           <caret line="92" column="40" selection-start-line="92" selection-start-column="40" selection-end-line="92" selection-end-column="40" />
         </state>
       </provider>
