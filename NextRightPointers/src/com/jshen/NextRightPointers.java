@@ -26,29 +26,47 @@ public class NextRightPointers {
         }
     }
 
-    //iterate solution, time is O(n), space is O(n)
+    //iterate solution, time is O(n), space is O(n), this is general solution, even for unperfect binary tree
+//    public Node connect(Node root) {
+//        if(root == null) return null;
+//
+//        LinkedList<Node> nodeQueue = new LinkedList<>();
+//        nodeQueue.add(root);
+//
+//        while(!nodeQueue.isEmpty()){
+//            int size = nodeQueue.size();
+//            while(size > 0){
+//                Node current = nodeQueue.poll();
+//                if(size > 1) {  //can't use if(nodeQueue.peek() != null) to determine, because queue is dynamic, while size is fixed for each level
+//                    current.next = nodeQueue.peek();
+//                }
+//
+//                if(current.left != null){
+//                    nodeQueue.add(current.left);
+//                }
+//                if(current.right != null){
+//                    nodeQueue.add(current.right);
+//                }
+//                size--;
+//            }
+//        }
+//        return root;
+//    }
+
+    //iterative solution space O(1), using two pointers. this only works in perfect binary tree
     public Node connect(Node root) {
         if(root == null) return null;
-
-        LinkedList<Node> nodeQueue = new LinkedList<>();
-        nodeQueue.add(root);
-
-        while(!nodeQueue.isEmpty()){
-            int size = nodeQueue.size();
-            while(size > 0){
-                Node current = nodeQueue.poll();
-                if(size > 1) {  //can't use if(nodeQueue.peek() != null) to determine, because queue is dynamic, while size is fixed for each level
-                    current.next = nodeQueue.peek();
+        Node leftHead = root;
+        while(leftHead.left != null){
+            Node pointer = leftHead;
+            while(pointer != null){
+                pointer.left.next = pointer.right; //example root.left.next = root.right
+                if(pointer.next != null){
+                    pointer.right.next = pointer.next.left;
                 }
-
-                if(current.left != null){
-                    nodeQueue.add(current.left);
-                }
-                if(current.right != null){
-                    nodeQueue.add(current.right);
-                }
-                size--;
+                pointer = pointer.next;
             }
+            leftHead = leftHead.left; //go to the next level after current level finished
         }
         return root;
     }
